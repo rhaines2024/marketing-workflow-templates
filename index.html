@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marketing Workflow Templates ✨</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <a href="#" class="back-link">← Back to templates</a>
+            <h1>Marketing Workflow Templates ✨</h1>
+            <p class="subtitle">Save time with ready-to-use templates designed specifically for marketing tasks.</p>
+        </div>
+    </header>
+
+    <main>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search apps, roles, usecases..." class="search-input">
+        </div>
+
+        <div class="filter-tags">
+            <span class="tag active" data-filter="all">📊 Reporting</span>
+            <span class="tag" data-filter="optimization">🔧 Optimization</span>
+            <span class="tag" data-filter="seo">📈 SEO</span>
+            <span class="tag" data-filter="analytics">📊 Google Analytics</span>
+            <span class="tag" data-filter="ai">🤖 AI</span>
+            <span class="tag" data-filter="ads">🎯 Google Ads</span>
+            <span class="tag" data-filter="meta">📘 Meta Ads</span>
+            <span class="tag" data-filter="bigquery">📊 BigQuery</span>
+            <span class="tag" data-filter="tiktok">🎵 TikTok Ads</span>
+        </div>
+
+        <section id="workflows" class="workflows-grid">
+            <!-- Workflow cards will be injected here using JavaScript -->
+        </section>
+
+        <div id="loading" class="loading">Loading templates...</div>
+        <div id="error" class="error-message" style="display: none;">
+            Unable to load templates. Please try again later.
+        </div>
+    </main>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
