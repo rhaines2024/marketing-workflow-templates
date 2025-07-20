@@ -1,0 +1,292 @@
+[
+  {
+    "id": "google-ads-budget-monitor",
+    "title": "Google Ads Agency Budget Monitor",
+    "shortDescription": "Monitor pacing across all your Google Ads client accounts in one dashboard and receive instant alerts when any account exceeds spending targets.",
+    "fullDescription": "This comprehensive workflow helps agencies monitor budget pacing across multiple Google Ads client accounts from a centralized dashboard. Set up automated alerts to receive instant notifications when any account exceeds spending targets, ensuring you stay within budget constraints and maintain profitability. The system tracks daily spend, compares against monthly budgets, and provides detailed reporting on budget utilization across all managed accounts.",
+    "category": "ads",
+    "tags": ["Reporting", "Alerts"],
+    "icons": ["🎯", "📊", "⭐"],
+    "count": "+3"
+  },
+  {
+    "id": "monthly-seo-performance",
+    "title": "Monthly SEO Performance Slides",
+    "shortDescription": "Generate comprehensive monthly SEO reports in Google Slides using data from Google Search Console and Google Analytics with AI insights.",
+    "fullDescription": "Automate the creation of professional monthly SEO performance reports using data directly from Google Search Console and Google Analytics. This workflow generates comprehensive slides that include keyword rankings, organic traffic trends, click-through rates, and conversion metrics. AI-powered insights help identify opportunities and provide actionable recommendations for improving SEO performance. Perfect for agencies and in-house teams who need to deliver regular SEO reports to stakeholders.",
+    "category": "seo",
+    "tags": ["Reporting", "SEO"],
+    "icons": ["🔍", "📊", "📄"],
+    "count": "+4"
+  },
+  {
+    "id": "google-meta-ads-budget-monitor",
+    "title": "Google & Meta Ads Budget Pacing Monitor",
+    "shortDescription": "Monitor and track your Google and Meta Ads monthly budget pacing with automated alerts when campaigns exceed spending thresholds.",
+    "fullDescription": "Keep your advertising spend under control with this comprehensive budget monitoring system for both Google Ads and Meta Ads platforms. Track daily spend against monthly budgets, receive automated alerts when campaigns approach or exceed spending thresholds, and get detailed insights into budget utilization across all your advertising accounts. The system provides real-time monitoring and historical reporting to help optimize your advertising investment.",
+    "category": "ads",
+    "tags": ["Reporting", "Alerts"],
+    "icons": ["🎯", "📘", "📊"],
+    "count": "+3"
+  },
+  {
+    "id": "google-ads-monthly-slides",
+    "title": "Google Ads Monthly Slides with AI Insights",
+    "shortDescription": "Generate professional Google Ads performance reports in Google Slides with AI-enhanced insights and visualizations.",
+    "fullDescription": "Create compelling monthly Google Ads performance presentations automatically. This workflow pulls data from your Google Ads accounts and generates professional slides with key metrics, performance trends, and AI-powered insights. Include campaign performance analysis, keyword insights, audience data, and optimization recommendations. Perfect for client reporting and internal stakeholder updates.",
+    "category": "ads",
+    "tags": ["Reporting"],
+    "icons": ["🎯", "📄", "⭐"],
+    "count": "+3"
+  },
+  {
+    "id": "google-meta-ads-consolidated",
+    "title": "Google & Meta Ads Consolidated Monthly Report",
+    "shortDescription": "Generate consolidated Google & Meta Ads performance reports in Google Slides with AI-enhanced insights and visualizations.",
+    "fullDescription": "Streamline your cross-platform advertising reporting with this consolidated workflow that combines Google Ads and Meta Ads performance data into unified monthly reports. Generate professional Google Slides presentations that compare performance across platforms, identify top-performing campaigns, and provide AI-enhanced insights for optimization. Includes spend analysis, ROAS comparisons, audience insights, and strategic recommendations for both platforms.",
+    "category": "ads",
+    "tags": ["Reporting"],
+    "icons": ["🎯", "📘", "📄"],
+    "count": "+6"
+  },
+  {
+    "id": "google-analytics-slack-agent",
+    "title": "Google Analytics AI Slack Agent",
+    "shortDescription": "Chat with your Google Analytics data directly in Slack by asking natural language questions and getting instant insights without leaving your workspace.",
+    "fullDescription": "Transform how your team interacts with Google Analytics data through this intelligent Slack integration. Ask questions in natural language like 'What was our conversion rate last month?' or 'Show me top traffic sources this week' and receive instant, accurate responses with relevant charts and insights. The AI agent understands context, can perform complex queries, and provides actionable recommendations based on your analytics data. Perfect for teams who want quick access to analytics insights without switching between tools.",
+    "category": "analytics",
+    "tags": ["Reporting"],
+    "icons": ["📊", "⭐", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "pause-overspending-meta-ads",
+    "title": "Pause Overspending Meta Ads Campaigns",
+    "shortDescription": "Automatically monitor and manage Meta campaign spend by setting thresholds that trigger actions when budgets exceed predetermined limits.",
+    "fullDescription": "Protect your advertising budget with this automated Meta Ads campaign management system. Set custom spending thresholds for individual campaigns or ad sets, and automatically pause campaigns when they exceed your predetermined limits. The system monitors spend in real-time, sends notifications before taking action, and provides detailed logs of all automated decisions. Perfect for agencies managing multiple client accounts or businesses wanting to maintain strict budget control.",
+    "category": "meta",
+    "tags": ["Optimization"],
+    "icons": ["📘", "🔧", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "send-meta-leads-google-sheets",
+    "title": "Send Meta Leads to Google Sheets",
+    "shortDescription": "Automatically capture and organize Meta lead form submissions in Google Sheets for streamlined lead management and tracking.",
+    "fullDescription": "Streamline your lead management process by automatically transferring Meta Ads lead form submissions directly to Google Sheets. This workflow captures lead data in real-time, organizes it in a structured format, and can trigger follow-up actions like email notifications or CRM updates. Perfect for sales teams who need immediate access to new leads and want to maintain organized lead tracking systems.",
+    "category": "meta",
+    "tags": ["Reporting", "Optimization"],
+    "icons": ["⏰", "📘", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "microsoft-ads-ai-email-insights",
+    "title": "Microsoft Ads AI Email Insights",
+    "shortDescription": "Get AI-powered digestible insights on yesterday's Microsoft Ads performance, with spend vs. conversion analysis delivered straight to your inbox.",
+    "fullDescription": "Stay informed about your Microsoft Ads performance with daily AI-generated email reports. This workflow analyzes yesterday's campaign data, identifies key trends and anomalies, and delivers actionable insights directly to your inbox. The AI-powered analysis includes spend efficiency metrics, conversion rate analysis, keyword performance insights, and optimization recommendations. Perfect for busy marketers who need quick, digestible performance updates without logging into multiple platforms.",
+    "category": "microsoft-ads",
+    "tags": ["Reporting"],
+    "icons": ["🪟", "⭐", "📧"],
+    "count": "+1"
+  },
+  {
+    "id": "ga4-ai-slack-insights",
+    "title": "GA4 AI Slack Insights",
+    "shortDescription": "Receive daily GA4 analytics with AI-generated insights directly in your Slack channel. Track performance trends, spot anomalies, and get actionable recommendations.",
+    "fullDescription": "Transform your team's relationship with Google Analytics 4 data through intelligent Slack integration. This workflow delivers daily performance summaries with AI-generated insights that highlight important trends, identify anomalies, and provide actionable recommendations. The system analyzes traffic patterns, conversion metrics, user behavior, and campaign performance to deliver contextual insights that help your team make data-driven decisions quickly.",
+    "category": "analytics",
+    "tags": ["Reporting"],
+    "icons": ["📊", "⭐", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "google-ads-ai-email-insights",
+    "title": "Google Ads AI Email Insights",
+    "shortDescription": "Get AI-powered digestible insights on yesterday's Google Ads performance, with spend vs. conversion analysis delivered straight to your inbox.",
+    "fullDescription": "Receive comprehensive daily Google Ads performance analysis powered by AI. This workflow examines yesterday's campaign data, analyzes spend efficiency, tracks conversion performance, and identifies optimization opportunities. The AI-generated insights are delivered as easy-to-digest email reports that include key metrics, performance trends, and specific recommendations for improving campaign ROI.",
+    "category": "ads",
+    "tags": ["Reporting"],
+    "icons": ["🎯", "⭐", "📧"],
+    "count": "+1"
+  },
+  {
+    "id": "ai-slack-chatbot",
+    "title": "AI Slack Chatbot",
+    "shortDescription": "Deploy an AI-powered Q&A chatbot in your Slack workspace to provide instant answers to team questions and streamline information access.",
+    "fullDescription": "Enhance your team's productivity with an intelligent Slack chatbot that can answer questions, provide information, and assist with various tasks. The AI-powered bot learns from your organization's knowledge base and can handle customer support queries, internal FAQ responses, and general assistance. Perfect for teams looking to automate routine inquiries and provide 24/7 support to team members.",
+    "category": "ai",
+    "tags": ["AI"],
+    "icons": ["📊", "⭐", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "google-ads-ai-search-term-classifier",
+    "title": "Google Ads AI Search Term Classifier",
+    "shortDescription": "Categorize your Google Ads search terms by user intent using AI and export the organized data to Google Sheets for optimized campaign management.",
+    "fullDescription": "Leverage AI to automatically categorize Google Ads search terms by user intent, helping you understand what drives your traffic and conversions. This workflow analyzes search query data, classifies terms by intent (informational, navigational, transactional), and exports organized data to Google Sheets. Use these insights to optimize keyword strategies, improve ad relevance, and enhance campaign targeting.",
+    "category": "ads",
+    "tags": ["Optimization"],
+    "icons": ["🎯", "⭐", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "pause-zero-impressions-ad-groups",
+    "title": "Pause Zero Impressions Ad Groups in Google Ads",
+    "shortDescription": "Identify and pause zero-impression ad groups to declutter your Google Ads account and improve overall campaign health and performance.",
+    "fullDescription": "Maintain a clean and efficient Google Ads account by automatically identifying and pausing ad groups that haven't received impressions over a specified period. This workflow helps improve account organization, reduces clutter, and ensures your active campaigns get the attention they deserve. The system provides detailed reports on paused ad groups and can be configured with custom time thresholds.",
+    "category": "ads",
+    "tags": ["Optimization"],
+    "icons": ["⚡", "🎯", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "google-ads-search-term-optimizer",
+    "title": "Google Ads Search Term Optimizer",
+    "shortDescription": "Automatically identify high-converting search queries and add them as keywords to your Google Ads campaigns for improved performance and ROI.",
+    "fullDescription": "Optimize your Google Ads campaigns by automatically identifying high-performing search terms and converting them into targeted keywords. This workflow analyzes search query reports, identifies terms with strong conversion rates or high relevance scores, and automatically adds them to appropriate campaigns and ad groups. Save time on manual keyword research while improving campaign performance and ROI.",
+    "category": "ads",
+    "tags": ["Optimization"],
+    "icons": ["⏰", "🎯", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "meta-ads-leads-bigquery",
+    "title": "Meta Ads Leads to BigQuery",
+    "shortDescription": "Sync your Meta Ads lead form submissions to BigQuery daily for advanced analytics and data warehousing.",
+    "fullDescription": "Integrate your Meta Ads lead data with BigQuery for advanced analytics and data warehousing capabilities. This workflow automatically transfers lead form submissions to BigQuery on a daily basis, enabling complex data analysis, custom reporting, and integration with other business intelligence tools. Perfect for organizations that need to combine lead data with other business metrics for comprehensive analysis.",
+    "category": "meta",
+    "tags": ["Reporting"],
+    "icons": ["📘", "🔷", "⏰"],
+    "count": "+1"
+  },
+  {
+    "id": "google-ads-redirect-url-checker",
+    "title": "Google Ads Redirect URL Checker",
+    "shortDescription": "Scan your Google Ads campaigns for redirect URLs that break attribution tracking and harm performance metrics.",
+    "fullDescription": "Protect your Google Ads attribution tracking by automatically scanning campaigns for problematic redirect URLs. This workflow identifies URLs that may break tracking, cause attribution issues, or lead to poor user experiences. Get detailed reports on redirect chains, broken links, and tracking parameter issues, with recommendations for fixes to maintain accurate performance measurement.",
+    "category": "ads",
+    "tags": ["Optimization"],
+    "icons": ["🎯", "🌐", "📊"],
+    "count": "+3"
+  },
+  {
+    "id": "meta-ads-creative-report-sheets",
+    "title": "Meta Ads Creative Report to Google Sheets",
+    "shortDescription": "Generate a creative report of all your active Meta ads with images, videos, and performance metrics, and export it to Google Sheets for easy sharing.",
+    "fullDescription": "Create comprehensive creative performance reports for your Meta Ads campaigns. This workflow generates detailed reports that include ad creatives (images and videos), performance metrics, engagement data, and creative insights. Export everything to Google Sheets for easy sharing with team members, clients, or stakeholders. Perfect for creative teams and agencies who need to track and optimize ad creative performance.",
+    "category": "meta",
+    "tags": ["Ad Creative", "Reporting"],
+    "icons": ["📘", "📊", "🔧"],
+    "count": "+1"
+  },
+  {
+    "id": "google-ads-broken-urls-checker",
+    "title": "Google Ads Broken URLs Checker",
+    "shortDescription": "Scan your Google Ads campaigns for broken landing pages and pause ads with 404 errors to prevent wasted ad spend.",
+    "fullDescription": "Protect your advertising budget by automatically scanning Google Ads campaigns for broken landing pages and 404 errors. This workflow regularly checks all destination URLs in your campaigns, identifies broken links, and can automatically pause affected ads to prevent wasted spend. Get detailed reports on URL status and receive alerts when issues are detected, ensuring your ads always lead to working landing pages.",
+    "category": "ads",
+    "tags": ["Optimization"],
+    "icons": ["🎯", "🌐", "📊"],
+    "count": "+3"
+  },
+  {
+    "id": "keyword-planner-to-sheets",
+    "title": "Keyword Planner to Sheets",
+    "shortDescription": "Extract comprehensive keyword data from Google Keyword Planner directly to Google Sheets for SEO research, planning, and optimization.",
+    "fullDescription": "Streamline your SEO keyword research by automatically extracting data from Google Keyword Planner and organizing it in Google Sheets. This workflow pulls keyword suggestions, search volumes, competition data, and cost estimates, then formats everything in an easy-to-analyze spreadsheet. Perfect for SEO professionals and content marketers who need organized keyword data for strategic planning and content optimization.",
+    "category": "seo",
+    "tags": ["SEO", "Keywords Research"],
+    "icons": ["🎯", "📊", "⚡"],
+    "count": "+1"
+  },
+  {
+    "id": "gsc-ai-query-intent-classifier",
+    "title": "GSC AI Query Intent Classifier",
+    "shortDescription": "Categorize your Google Search Console queries using AI and export the organized data to Google Sheets for strategic content planning.",
+    "fullDescription": "Leverage AI to automatically categorize Google Search Console queries by search intent, helping you understand what users are looking for when they find your site. This workflow analyzes search query data, classifies queries by intent type (informational, navigational, transactional, commercial), and exports organized data to Google Sheets. Use these insights to optimize content strategy, improve page targeting, and enhance overall SEO performance.",
+    "category": "seo",
+    "tags": ["Reporting", "SEO"],
+    "icons": ["🔒", "⭐", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "ai-seo-title-description-generator",
+    "title": "AI SEO Title & Description Generator",
+    "shortDescription": "Generate SEO-optimized page titles and meta descriptions using AI to improve organic search visibility and click-through rates.",
+    "fullDescription": "Enhance your website's search engine visibility with AI-generated SEO titles and meta descriptions. This workflow analyzes your content, target keywords, and search intent to create compelling, optimized titles and descriptions that improve click-through rates and search rankings. The AI considers character limits, keyword placement, and user engagement factors to generate high-performing meta content.",
+    "category": "seo",
+    "tags": ["SEO"],
+    "icons": ["🌐", "⭐", "📊"],
+    "count": "+2"
+  },
+  {
+    "id": "meta-ads-preview-url-generator",
+    "title": "Meta Ads Preview URL Generator",
+    "shortDescription": "Generate preview URLs for all your active Meta ads across different placements to easily share with clients and team members.",
+    "fullDescription": "Simplify client presentations and team collaboration by automatically generating preview URLs for all your active Meta ads. This workflow creates shareable preview links that show how ads appear across different placements (feed, stories, reels, etc.), making it easy to share creative work with clients, get approvals, and collaborate with team members without giving access to the ads manager.",
+    "category": "meta",
+    "tags": ["Ad Creative", "Reporting"],
+    "icons": ["📘", "📊", "🔧"],
+    "count": "+1"
+  },
+  {
+    "id": "google-ads-ai-n-gram-analyzer",
+    "title": "Google Ads AI N-gram Analyzer",
+    "shortDescription": "Analyze your Google Ads search terms using AI-powered N-gram analysis to identify high and low-performing keyword patterns for campaign optimization.",
+    "fullDescription": "Unlock deeper insights from your Google Ads search term data with AI-powered N-gram analysis. This workflow examines search query patterns, identifies high-performing and low-performing keyword combinations, and provides actionable recommendations for campaign optimization. Discover which word combinations drive the best results and which should be added as negative keywords to improve campaign efficiency.",
+    "category": "ads",
+    "tags": ["Reporting", "Optimization"],
+    "icons": ["🎯", "⭐", "📊"],
+    "count": "+2"
+  },
+  {
+    "id": "pmax-channel-split-report",
+    "title": "PMax Channel Split Report",
+    "shortDescription": "Track and breakdown Google's Performance Max ad spend by channel in Google Sheets, revealing where your budget is actually being allocated.",
+    "fullDescription": "Gain transparency into your Performance Max campaign spending with detailed channel breakdown reports. This workflow tracks how Google allocates your PMax budget across different channels (Search, Display, YouTube, Discover, Gmail, Maps), providing insights into where your money is actually being spent. Export detailed reports to Google Sheets to analyze performance by channel and optimize your PMax strategy.",
+    "category": "ads",
+    "tags": ["Reporting"],
+    "icons": ["⏰", "🎯", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "article-urls-linkedin-carousel",
+    "title": "Article URLs to LinkedIn Carousel",
+    "shortDescription": "Transform article URLs into branded LinkedIn carousel posts using AI-generated summaries and visuals, all automatically formatted in Google Slides.",
+    "fullDescription": "Automate your LinkedIn content creation by transforming article URLs into engaging carousel posts. This workflow takes article URLs, uses AI to generate compelling summaries and key points, creates branded visuals, and formats everything as LinkedIn carousel posts in Google Slides. Perfect for content marketers and thought leaders who want to consistently share valuable content on LinkedIn without manual design work.",
+    "category": "social",
+    "tags": ["Organic Social"],
+    "icons": ["📄", "⭐", "🌐"],
+    "count": "+3"
+  },
+  {
+    "id": "optimize-poor-responsive-search-ads",
+    "title": "Optimize Poor Responsive Search Ads via AI",
+    "shortDescription": "Transform poor-performing Google Ads RSAs with AI-generated headlines and descriptions that boost ad strength, CTR, and conversion rates.",
+    "fullDescription": "Improve your Google Ads Responsive Search Ads performance with AI-powered optimization. This workflow identifies underperforming RSAs, analyzes their current headlines and descriptions, and generates new, high-performing ad copy that improves ad strength ratings, click-through rates, and conversion performance. The AI considers search intent, keyword relevance, and proven copywriting principles to create compelling ad variations.",
+    "category": "ads",
+    "tags": ["Optimization"],
+    "icons": ["🎯", "⭐", "📊"],
+    "count": "+2"
+  },
+  {
+    "id": "google-ads-ai-slack-insights",
+    "title": "Google Ads AI Slack Insights",
+    "shortDescription": "Get AI-powered digestible insights on yesterday's Google Ads performance, with spend vs. conversion analysis delivered directly to your Slack channel.",
+    "fullDescription": "Stay informed about your Google Ads performance with daily AI-generated insights delivered directly to Slack. This workflow analyzes yesterday's campaign data, identifies key trends and anomalies, and delivers actionable insights to your team's Slack channel. The AI-powered analysis includes spend efficiency metrics, conversion rate analysis, keyword performance insights, and optimization recommendations, keeping your entire team aligned on campaign performance.",
+    "category": "ads",
+    "tags": ["Reporting"],
+    "icons": ["🎯", "⭐", "📊"],
+    "count": "+1"
+  },
+  {
+    "id": "google-analytics-monthly-slides",
+    "title": "Google Analytics Monthly Slides with AI Insights",
+    "shortDescription": "Generate comprehensive Google Analytics performance reports in Google Slides with AI-enhanced insights and visualizations for stakeholder presentations.",
+    "fullDescription": "Create professional monthly Google Analytics reports automatically with AI-powered insights and visualizations. This workflow pulls data from Google Analytics, generates comprehensive slides covering traffic trends, user behavior, conversion metrics, and channel performance. AI analysis provides context, identifies important trends, and offers actionable recommendations. Perfect for agencies and marketing teams who need to deliver regular analytics reports to stakeholders.",
+    "category": "analytics",
+    "tags": ["Reporting"],
+    "icons": ["📊", "⭐", "📄"],
+    "count": "+1"
+  }
+]
